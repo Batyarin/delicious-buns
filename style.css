@@ -1,0 +1,16 @@
+div{
+    border: 2px solid black;
+    display:flex;
+    justify-content: center;
+}
+.logoimg
+{
+    width:200px;
+     height:100px;
+}
+p{
+font-family: 'Times New Roman', Times, serif; /* Гарнитура текста */ 
+font-size: 250%; /* Размер шрифта в процентах */ }
+body{
+    background-color: #d3d30c;
+}
